@@ -1,8 +1,0 @@
-{
-    "name":"manufactory-lib",
-    "version":"1.0.0",
-    "title":"Manufactory Mod Library",
-    "description": "Functions used in MM mods. Feel free to use it",
-    "author":"Medio's Manufactory",
-    "factorio_version": "1.1"
-}
