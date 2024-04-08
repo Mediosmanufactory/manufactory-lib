@@ -6,8 +6,7 @@ mml.entity = {}
 
 mml.entity.container = {}
 mml.entity.container.create = {}
-mml.entity.container.create.new = {}
-require('entity.container.new')
+require('entity.container.create.new')
 mml.entity.util = {}
 require('entity.util.add_collision_box')
 
