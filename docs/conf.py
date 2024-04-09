@@ -4,10 +4,10 @@
 
 project = 'Manufactory Mod Library'
 copyright = '2024, Medio\'s Manufactory'
-author = 'Graziella'
+author = 'Medio\'s Manufactory'
 
 release = '0.1'
-version = '0.1.0'
+version = '0.0.2'
 
 # -- General configuration
 
