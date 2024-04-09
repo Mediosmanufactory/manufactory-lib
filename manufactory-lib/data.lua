@@ -41,18 +41,21 @@ require('ore.create.new')
 
 mml.ore.remove = {}
 require('ore.remove.compatibility')
-requite('ore.remove.forced')
+require('ore.remove.forced')
+
+
 
 
 
 mml.recipe = {}
+
 mml.recipe.category = {}
 require('recipe.category.new')
 
 mml.recipe.create = {}
 require('recipe.create.extend')
-require('recipe.create.new_multi_result')
-require('recipe.create.new_sigle_result')
+require('recipe.create.multi_result')
+require('recipe.create.single_result')
 
 mml.recipe.remove = {}
 require('recipe.remove.set_table_entry_to_nil')

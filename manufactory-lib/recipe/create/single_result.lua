@@ -1,4 +1,4 @@
-function mml.recipe.create.new_single_result(_name,_icon,_iconsize,_ingredients,_result)
+function mml.recipe.create.single_result(_name,_icon,_iconsize,_ingredients,_result)
     data:extend({
         {
             type = "recipe",
